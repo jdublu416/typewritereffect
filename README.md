@@ -1,2 +1,4 @@
 # typewritereffect
-learning how to code with JavaScript and CSS, the typewriter effect and background image manipulation. 
+learning how to hard code typewriter effects with only JavaScript and CSS
+
+## View the finsihed product [here](https://jdublu416.github.io/typewritereffect/)
